@@ -80,6 +80,9 @@ export default function About() {
           	Empowerment of women across the globe in the field of information technology.<br/>
             A world where every woman is able to use their potential, make her
             own decisions, and earn.
+            Empowerment of women across the globe in the field of information technology.<br/>
+            A world where every woman is able to use their potential, make her
+            own decisions, and earn.
           </p>
           
         </div>
