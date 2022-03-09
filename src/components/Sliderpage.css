@@ -1,0 +1,12 @@
+img.sliderimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+span.carousel-control-prev-icon {
+  display: none !important;
+}
+span.carousel-control-next-icon {
+  display: none !important;
+}

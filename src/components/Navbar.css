@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+/* font-family: 'Poppins', sans-serif; */
+
+.navbar-expand-lg {
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  padding-top: 1rem !important;
+}
+
+a.nav-link.active {
+  margin-left: 18px;
+  color: #f6f6f6 !important;
+}
+a#navbarDropdown {
+  color: #f6f6f6 !important;
+  transition: 0.3s ease-out;
+}
+a.navbar-brand.py-2 {
+  margin-left: 52px;
+}
+.navbar-expand-lg .navbar-nav {
+  flex-direction: row;
+  margin-top: 1rem !important;
+}
+ul.dropdown-menu.show {
+  display: flex !important;
+}
+div#navbarText {
+  font-size: 17px;
+  font-family: "Poppins", sans-serif;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
+p.para-1 {
+  color: #4c4c4c;
+  padding: 2px 15px 0px;
+  font-size: 17px;
+}
+p.para-2 {
+  font-size: 19px;
+  width: 80%;
+}
+button.btn.btn-group-sm.btn-primary {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+img.empowerwitlogo {
+  width: 30%;
+  margin-left: 24px;
+}
+button.apply {
+  width: 9rem;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  background: #fb9000;
+  border: 1px solid #fb9000;
+  color: #fff;
+  border-radius: 25px;
+  transition: 0.4s ease-out;
+  margin-left: 8rem;
+  padding: 12px;
+  margin-right: 10rem;
+}
+button.apply:hover {
+  transform: scale(1.1);
+}
+a.applynow {
+  color: white;
+}

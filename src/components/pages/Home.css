@@ -1,0 +1,155 @@
+/* font-family: 'Poppins', sans-serif; */
+
+a.know.more {
+  color: white;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+h1.empowerwit {
+  font-weight: 700;
+  font-size: 4rem;
+}
+.social-icons {
+  margin-left: -24px;
+  margin-top: 10px;
+}
+a {
+  padding: 2px 4px;
+}
+.technology-container.py-2.px-5 {
+  margin-top: 5rem;
+}
+img.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.para-3 {
+  font-size: 17px;
+}
+
+@media screen and (max-width: 912px) {
+  section.py-2.px-5.d-flex.align-items-center {
+    display: grid !important;
+  }
+  img.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  img.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  h2.heading-2 {
+    font-size: 35px;
+    font-weight: 700;
+  }
+  p.para-2 {
+    font-size: 22px;
+  }
+  p.para-3 {
+    font-size: 22px;
+  }
+  div#navbarText {
+    padding: 1rem 1rem;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  p.para-2 {
+    font-size: 16px;
+  }
+  h1.empowerwit {
+    font-weight: 700;
+    font-size: 3rem;
+  }
+
+  p.para-1 {
+    color: #4c4c4c;
+    padding: 2px 2px 0px;
+    font-size: 15px;
+  }
+  p.para-3 {
+    font-size: 14px;
+  }
+  .technology-container.py-2.px-5 {
+    margin-top: 5rem;
+    margin-left: -50px;
+  }
+}
+
+@media screen and (max-width: 412px) {
+  h2.heading-2 {
+    font-size: 30px;
+    font-weight: 700;
+  }
+  p.para-3 {
+    font-size: 10px;
+  }
+  p.para-2 {
+    font-size: 12px;
+  }
+  h1.empowerwit {
+    font-weight: 700;
+    font-size: 2rem;
+  }
+  p.para-1 {
+    color: #4c4c4c;
+    padding: 2px 2px 0px;
+    font-size: 11px;
+  }
+  img.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+  img.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  p.para-2 {
+    font-size: 12px;
+  }
+  img.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+  img.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+  h2.heading-2 {
+    font-size: 27px;
+    font-weight: 700;
+  }
+  p.para-3 {
+    font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+
+}

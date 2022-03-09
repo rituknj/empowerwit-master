@@ -1,0 +1,19 @@
+h2.card-title {
+  font-size: 16px;
+  padding: 2px;
+}
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  transition: 0.4s ease-out !important;
+}
+.card:hover {
+  transform: scale(1.1) !important;
+}
